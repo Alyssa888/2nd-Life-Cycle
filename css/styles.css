@@ -1,0 +1,102 @@
+body {
+
+  background: #fff7e6;
+  font-family: 'Arial', sans-serif;
+  color: #333333
+}
+
+body {
+  margin: 0;
+  background-image: url(../images/home2.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+
+
+}
+
+
+.amsterdam {
+  background-image: url(../images/amsterdam2.png);
+
+
+}
+
+.doneren {
+  background-image: url(../images/doneren2.png);
+
+}
+
+.over {
+  background-image: url(../images/over2.png);
+
+
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #ffebcd;
+  font-size: 1em;
+  font-family: 'Trechbuchet MS', sans-serif;
+
+
+}
+
+
+h1 {
+  font-family: 'Trechbuchet MS', sans-serif;
+  text-align: center;
+}
+
+
+a {
+  text-decoration: none;
+  color: white
+}
+
+a {
+  margin: 0.5em;
+  background-color: orange;
+  border-radius: 1em;
+  padding: 0.8em;
+
+
+
+}
+
+img {
+
+  display: block;
+  margin: 0 auto;
+
+}
+
+.formulier {
+  padding-bottom: 2em;
+}
+
+p {
+  margin: 3em;
+
+}
+
+
+
+
+h2 {
+  font-family: 'Trechbuchet MS', sans-serif;
+  text-align: center;
+}
+
+
+
+footer {
+  font-size: x-small;
+  text-align: center;
+  padding-top: 1em;
+}
